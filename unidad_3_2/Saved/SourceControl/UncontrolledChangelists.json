@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/1/IA_PrintMensaje.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/1/IMC_Controles.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/2/IMC_Default.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/2/IA_Jump.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/3/IA_MouseMove.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ejercicios/3/IMC_MouseMove.uasset",
+				"C:/Users/santino/Documents/Unreal Projects/unidad_3_2/Content/ThirdPerson/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
